@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ori-niv-original-winner-product-0246f5a2.zappy5.app/sitemap.xml
