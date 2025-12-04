@@ -93,16 +93,19 @@ img {
 }
 
 :root {
-  --primary-color: #000000;
-  --secondary-color: #ffffff;
-  --accent-color: #d4af37;
-  --text-color: #1a1a1a;
+--primary-color: undefined;
+  --secondary-color: undefined;
+  --accent-color: undefined;
+  --text-color: #4a4a4a;
   --light-text: #ffffff;
   --bg-white: #ffffff;
   --bg-light: #f8f8f8;
-  --border-color: #e0e0e0;
+  --border-color: #E0E0E0;
   --shadow: 0 2px 10px rgba(0,0,0,0.1);
   --shadow-hover: 0 4px 20px rgba(0,0,0,0.15);
+  --background-color: undefined;
+  --surface-color: undefined;
+  --text-secondary-color: undefined;
 }
 
 .container {
@@ -247,7 +250,7 @@ section {
 
 .nav-cta-btn {
   background: var(--primary-color);
-  color: var(--light-text);
+  color: #FFFFFF;
   padding: 10px 24px;
   border-radius: 4px;
   text-decoration: none;
@@ -1028,7 +1031,7 @@ section {
     font-size: 24px;
     z-index: 1000;
     box-shadow: 0 4px 12px rgba(0,0,0,0.3);
-    background: #25d366;
+    background: #D4AF37;
     color: white;
     text-decoration: none;
   }
@@ -1065,11 +1068,11 @@ img, picture, figure {
 
     /* Legal Footer Styles - Header Colors */
     .legal-footer {
-      background-color: #f2f2f2;
+      background-color: #F8F8F8;
       color: #1a1a1a;
       padding: 20px 0;
       font-size: 16px;
-      border-top: 3px solid #1a202c;
+      border-top: 3px solid #1A1A1A;
     }
 
     .legal-footer .container {
@@ -1140,7 +1143,7 @@ img, picture, figure {
     }
 
     .legal-footer .footer-social a:hover {
-      color: #1a202c !important;
+      color: #1A1A1A !important;
       transform: scale(1.15);
       opacity: 1;
     }
@@ -1282,7 +1285,7 @@ img, picture, figure {
 /* Cookie Consent Customizations */
 :root {
   --cc-btn-primary-bg: #3b82f6;
-  --cc-btn-primary-border: #3b82f6;
+  --cc-btn-primary-border: #000000;
   --cc-btn-primary-hover-bg: #2269dd;
 }
 
@@ -1449,9 +1452,9 @@ img, picture, figure {
 #mic-access-tool-general-button svg line,
 #mic-access-tool-general-button svg polyline,
 #mic-access-tool-general-button svg g {
-  fill: #f2f2f2 !important;
-  stroke: #f2f2f2 !important;
-  color: #f2f2f2 !important;
+  fill: #F8F8F8 !important;
+  stroke: #F8F8F8 !important;
+  color: #F8F8F8 !important;
 }
 
 /* Target images if the icon is an img instead of SVG */
@@ -1472,7 +1475,7 @@ img, picture, figure {
 .mic-access-tool-box-header,
 div[id*="mic-access-tool-box"] header,
 div[id*="mic-access-tool-box"] .header {
-  background: #f2f2f2 !important;
+  background: #F8F8F8 !important;
   color: white !important;
 }
 
@@ -1499,8 +1502,8 @@ div[id*="mic-access-tool-box"] .header * {
 #mic-access-tool-box button:hover,
 div[id*="mic-access-tool-box"] button.active,
 div[id*="mic-access-tool-box"] button:hover {
-  border-color: #f2f2f2 !important;
-  color: #f2f2f2 !important;
+  border-color: #F8F8F8 !important;
+  color: #F8F8F8 !important;
   background-color: rgba(242, 242, 242, 0.1) !important;
 }
 
@@ -1509,7 +1512,7 @@ div[id*="mic-access-tool-box"] button:hover {
 #mic-access-tool-box button[title*="Reset"],
 #mic-access-tool-box [class*="reset"],
 div[id*="mic-access-tool-box"] button[class*="reset"] {
-  background: #f2f2f2 !important;
+  background: #F8F8F8 !important;
   color: white !important;
 }
 
