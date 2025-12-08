@@ -93,18 +93,18 @@ img {
 }
 
 :root {
---primary-color: undefined;
-  --secondary-color: undefined;
-  --accent-color: undefined;
+--primary-color: #1E5AA8;
+  --secondary-color: #E85D45;
+  --accent-color: #F39C12;
   --text-color: #4a4a4a;
   --light-text: #ffffff;
   --bg-white: #ffffff;
   --bg-light: #f8f8f8;
-  --border-color: #E0E0E0;
+  --border-color: #F5F7FA;
   --shadow: 0 2px 10px rgba(0,0,0,0.1);
   --shadow-hover: 0 4px 20px rgba(0,0,0,0.15);
-  --background-color: undefined;
-  --surface-color: undefined;
+  --background-color: #FFFFFF;
+  --surface-color: #F5F7FA;
   --text-secondary-color: #8c8c8c;
 }
 
@@ -1031,7 +1031,7 @@ section {
     font-size: 24px;
     z-index: 1000;
     box-shadow: 0 4px 12px rgba(0,0,0,0.3);
-    background: #3B82F6;
+    background: #1E5AA8;
     color: white;
     text-decoration: none;
   }
@@ -1068,7 +1068,7 @@ img, picture, figure {
 
     /* Legal Footer Styles - Header Colors */
     .legal-footer {
-      background-color: #F8F8F8;
+      background-color: #F5F7FA;
       color: #1a1a1a;
       padding: 20px 0;
       font-size: 16px;
@@ -1452,9 +1452,9 @@ img, picture, figure {
 #mic-access-tool-general-button svg line,
 #mic-access-tool-general-button svg polyline,
 #mic-access-tool-general-button svg g {
-  fill: #F8F8F8 !important;
-  stroke: #F8F8F8 !important;
-  color: #F8F8F8 !important;
+  fill: #F5F7FA !important;
+  stroke: #F5F7FA !important;
+  color: #F5F7FA !important;
 }
 
 /* Target images if the icon is an img instead of SVG */
@@ -1475,7 +1475,7 @@ img, picture, figure {
 .mic-access-tool-box-header,
 div[id*="mic-access-tool-box"] header,
 div[id*="mic-access-tool-box"] .header {
-  background: #F8F8F8 !important;
+  background: #F5F7FA !important;
   color: white !important;
 }
 
@@ -1502,8 +1502,8 @@ div[id*="mic-access-tool-box"] .header * {
 #mic-access-tool-box button:hover,
 div[id*="mic-access-tool-box"] button.active,
 div[id*="mic-access-tool-box"] button:hover {
-  border-color: #F8F8F8 !important;
-  color: #F8F8F8 !important;
+  border-color: #F5F7FA !important;
+  color: #F5F7FA !important;
   background-color: rgba(242, 242, 242, 0.1) !important;
 }
 
@@ -1512,7 +1512,7 @@ div[id*="mic-access-tool-box"] button:hover {
 #mic-access-tool-box button[title*="Reset"],
 #mic-access-tool-box [class*="reset"],
 div[id*="mic-access-tool-box"] button[class*="reset"] {
-  background: #F8F8F8 !important;
+  background: #F5F7FA !important;
   color: white !important;
 }
 
