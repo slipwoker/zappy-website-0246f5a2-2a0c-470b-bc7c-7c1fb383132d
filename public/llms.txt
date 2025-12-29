@@ -1,51 +1,61 @@
-# Business — Generative Engine Optimization Map
+# אורי ניב - Ori Niv Original Winner Product — Generative Engine Optimization Map
+
+> A עיצוב מוצר business.
 
 ---
 
 ## Pages
 
 ### מעצב מוצר מקצועי לעסקים — אורי ניב - Ori Niv Original Winner Product
-https://oriniv.com
+https://zappy-site-0246f5a2-2a0c-470b-bc7c.onrender.com
 גלו עיצוב מוצר מנצח לאמזון ופיתוח מוצרים מקוריים עם אורי ניב. מעצב מוצר מומחה לסטארטאפים ועסקים קטנים בישראל. צרו קשר היום!
 
 ### אודות אורי ניב - מעצב מוצר — אורי ניב - Ori Niv Original Winner Product
-https://oriniv.com/who-am-i
+https://zappy-site-0246f5a2-2a0c-470b-bc7c.onrender.com/who-am-i
 הכירו את אורי ניב - מעצב מוצר מקצועי המתמחה בפיתוח מוצרים מקוריים לסטארטאפים, עסקים קטנים וסוחרי אמזון. למידע נוסף צרו קשר.
 
 ### שירותי עיצוב מוצר מקצועיים — אורי ניב - Ori Niv Original Winner Product
-https://oriniv.com/what-i-offer
+https://zappy-site-0246f5a2-2a0c-470b-bc7c.onrender.com/what-i-offer
 שירותי עיצוב מוצר מקצועיים לסטארטאפים ועסקים. מעצב מוצרים מנוסה מציע פיתוח קונספט, עיצוב תלת מימד, אב טיפוס ועיצוב מוצר מנצח לאמזון.
 
 ### פורטפוליו עיצוב מוצר — אורי ניב - Ori Niv Original Winner Product
-https://oriniv.com/things-i-made
+https://zappy-site-0246f5a2-2a0c-470b-bc7c.onrender.com/things-i-made
 צפו בפורטפוליו של אורי ניב - מעצב מוצר מקצועי. פרויקטים מוצלחים בעיצוב מוצרים לסטארטאפים, עסקים קטנים וסוחרי אמזון.
 
 ### צור קשר — אורי ניב - Ori Niv Original Winner Product
-https://oriniv.com/lets-talk
+https://zappy-site-0246f5a2-2a0c-470b-bc7c.onrender.com/lets-talk
 צרו קשר עם אורי ניב - מעצב מוצר מקצועי. קבלו ייעוץ מקצועי והצעת מחיר מותאמת אישית לפרויקט עיצוב המוצר שלכם.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://oriniv.com/privacy
+https://zappy-site-0246f5a2-2a0c-470b-bc7c.onrender.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://oriniv.com/terms
+https://zappy-site-0246f5a2-2a0c-470b-bc7c.onrender.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://oriniv.com/accessibility
+https://zappy-site-0246f5a2-2a0c-470b-bc7c.onrender.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Business
+## About אורי ניב - Ori Niv Original Winner Product
+אורי ניב - Ori Niv Original Winner Product is a business in the עיצוב מוצר industry.
+
+## Target Audience
+לקוחות פרטיים וחברות קטנות שמעוניינות לפתח וליצר מוצרים מקוריים, סוחרי אמזון שמעוניינים בפיתוח מוצרים מקוריים, סטארטאפים
+
+## Industry
+עיצוב מוצר
+
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://oriniv.com/sitemap.xml
-- **Robots.txt**: https://oriniv.com/robots.txt
+- **Sitemap**: https://zappy-site-0246f5a2-2a0c-470b-bc7c.onrender.com/sitemap.xml
+- **Robots.txt**: https://zappy-site-0246f5a2-2a0c-470b-bc7c.onrender.com/robots.txt
