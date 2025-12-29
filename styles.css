@@ -1596,3 +1596,136 @@ body.accessibility-widget-visible ._access-menu {
     display: none !important;
   }
 }
+
+/* Added Component Styles */
+
+
+/* Added Component Styles */
+.clients-section-v1 {
+  padding: 80px 20px;
+  background-color: #ffffff;
+  direction: rtl;
+  font-family: system-ui, sans-serif;
+}
+
+.clients-container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.clients-header {
+  text-align: center;
+  margin-bottom: 60px;
+}
+
+.clients-title {
+  font-size: 2.5rem;
+  font-weight: 700;
+  color: var(--text-color, #4a4a4a);
+  margin: 0 0 16px 0;
+}
+
+.clients-subtitle {
+  font-size: 1.125rem;
+  color: var(--text-secondary-color, #8c8c8c);
+  margin: 0;
+}
+
+.clients-grid {
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  gap: 30px;
+}
+
+.client-card {
+  background: #ffffff;
+  border: 1px solid var(--border-color, #F8F8F8);
+  border-radius: 12px;
+  padding: 30px 20px;
+  text-align: center;
+  transition: all 0.3s ease;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+}
+
+.client-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.12);
+  border-color: var(--primary-color, #4a4a4a);
+}
+
+.client-logo-wrapper {
+  width: 100%;
+  height: 80px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 20px;
+  background: var(--border-color, #F8F8F8);
+  border-radius: 8px;
+  padding: 15px;
+}
+
+.client-logo {
+  max-width: 100%;
+  max-height: 100%;
+  height: auto;
+  object-fit: contain;
+  filter: grayscale(100%);
+  opacity: 0.7;
+  transition: all 0.3s ease;
+}
+
+.client-card:hover .client-logo {
+  filter: grayscale(0%);
+  opacity: 1;
+}
+
+.client-name {
+  font-size: 1rem;
+  font-weight: 600;
+  color: var(--text-color, #4a4a4a);
+  margin: 0 0 8px 0;
+}
+
+.client-description {
+  font-size: 0.875rem;
+  color: var(--text-secondary-color, #8c8c8c);
+  margin: 0;
+  line-height: 1.5;
+}
+
+@media (max-width: 1024px) {
+  .clients-grid {
+    grid-template-columns: repeat(3, 1fr);
+    gap: 25px;
+  }
+}
+
+@media (max-width: 768px) {
+  .clients-section-v1 {
+    padding: 60px 20px;
+  }
+  
+  .clients-title {
+    font-size: 2rem;
+  }
+  
+  .clients-grid {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+  }
+  
+  .client-card {
+    padding: 25px 15px;
+  }
+}
+
+@media (max-width: 480px) {
+  .clients-grid {
+    grid-template-columns: 1fr;
+  }
+  
+  .clients-title {
+    font-size: 1.75rem;
+  }
+}

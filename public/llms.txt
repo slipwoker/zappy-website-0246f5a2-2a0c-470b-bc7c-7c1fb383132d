@@ -1,0 +1,51 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### מעצב מוצר מקצועי לעסקים — אורי ניב - Ori Niv Original Winner Product
+https://oriniv.com
+גלו עיצוב מוצר מנצח לאמזון ופיתוח מוצרים מקוריים עם אורי ניב. מעצב מוצר מומחה לסטארטאפים ועסקים קטנים בישראל. צרו קשר היום!
+
+### אודות אורי ניב - מעצב מוצר — אורי ניב - Ori Niv Original Winner Product
+https://oriniv.com/who-am-i
+הכירו את אורי ניב - מעצב מוצר מקצועי המתמחה בפיתוח מוצרים מקוריים לסטארטאפים, עסקים קטנים וסוחרי אמזון. למידע נוסף צרו קשר.
+
+### שירותי עיצוב מוצר מקצועיים — אורי ניב - Ori Niv Original Winner Product
+https://oriniv.com/what-i-offer
+שירותי עיצוב מוצר מקצועיים לסטארטאפים ועסקים. מעצב מוצרים מנוסה מציע פיתוח קונספט, עיצוב תלת מימד, אב טיפוס ועיצוב מוצר מנצח לאמזון.
+
+### פורטפוליו עיצוב מוצר — אורי ניב - Ori Niv Original Winner Product
+https://oriniv.com/things-i-made
+צפו בפורטפוליו של אורי ניב - מעצב מוצר מקצועי. פרויקטים מוצלחים בעיצוב מוצרים לסטארטאפים, עסקים קטנים וסוחרי אמזון.
+
+### צור קשר — אורי ניב - Ori Niv Original Winner Product
+https://oriniv.com/lets-talk
+צרו קשר עם אורי ניב - מעצב מוצר מקצועי. קבלו ייעוץ מקצועי והצעת מחיר מותאמת אישית לפרויקט עיצוב המוצר שלכם.
+
+## Legal & Policy
+
+### Privacy Policy
+https://oriniv.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://oriniv.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://oriniv.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://oriniv.com/sitemap.xml
+- **Robots.txt**: https://oriniv.com/robots.txt
